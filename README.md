@@ -1,2 +1,2 @@
 # python-sudoku-solver
-Solved sudoku puzzles.
+Solves sudoku puzzles.
